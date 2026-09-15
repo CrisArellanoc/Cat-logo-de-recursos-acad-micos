@@ -31,3 +31,26 @@ Establece de dónde surgió la necesidad de crear el recurso, fundamental para e
     *   *Desarrollo Académico:* Proyectos finales, entregables de asignaturas o prácticas de laboratorio universitario.
     *   *Iniciativa Personal:* Scripts de automatización propios o entornos creados para investigación autodidacta.
     *   *Referencia Externa:* Documentación oficial, librerías, estándares de la industria o diagramas adaptados de repositorios de terceros (ej. GitHub).
+
+# Fuentes Académicas Recomendadas
+
+A continuación se presenta la lista consolidada con las **7 fuentes y buscadores académicos** de alto prestigio y confiabilidad:
+
+| Fuente / Plataforma | Enfoque Principal | Tipo de Acceso | Descripción |
+| :--- | :--- | :--- | :--- |
+| **1. Google Scholar** | Multidisciplinario | Gratuito | Buscador accesible y amplio para localizar artículos, tesis, libros, ponencias y resúmenes de diversas disciplinas. |
+| **2. JSTOR** | Humanidades y Ciencias Sociales | Mixto (Suscripción / Open Access) | Biblioteca digital con un extenso archivo de revistas académicas, libros y fuentes primarias especializadas. |
+| **3. PubMed Central (PMC)** | Biomedicina y Ciencias de la Vida | Gratuito | Base de datos de los Institutos Nacionales de Salud de EE. UU. (NIH) especializada en literatura médica y biológica. |
+| **4. ScienceDirect** | Ciencia, Tecnología y Medicina | Mixto | Plataforma gestionada por Elsevier que alberga millones de artículos y capítulos de libros revisados por pares. |
+| **5. Scopus / Web of Science** | Multidisciplinario (Citas e Índices) | Suscripción | Las dos bases de datos bibliográficas de citas más rigurosas y prestigiosas a nivel internacional. |
+| **6. IEEE Xplore** | Ingeniería, Informática y Tecnología | Mixto (Suscripción / Open Access) | Biblioteca digital especializada en publicaciones de la IEEE sobre ingeniería eléctrica, ciencias de la computación y electrónica. |
+| **7. SciELO** | Multidisciplinario (América Latina y el Caribe) | Open Access (Gratuito) | Hemeroteca virtual orientada a la divulgación científica y revistas académicas de América Latina, España y Portugal. |
+
+---
+
+### Notas de uso:
+- **Para búsqueda rápida y alcance broad:** Comienza con *Google Scholar*.
+- **Para investigación en salud o biología:** Prioriza *PubMed Central*.
+- **Para ingeniería y tecnología:** Utiliza *IEEE Xplore*.
+- **Para investigación regional en español/portugués:** Consulta *SciELO*.
+- **Para verificación de impacto y citas:** Utiliza *Scopus* o *Web of Science* a través del portal de tu institución académica.
